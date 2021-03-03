@@ -12,14 +12,6 @@ fun main() {
         }
     }
     data class Node(val i: Int, val j: Int)
-
-//    for(i in 0 until n){
-//        for(j in 0 until n){
-//            print("${arr[i][j]} ")
-//        }
-//        println()
-//    }
-
     val q: Queue<Node> = LinkedList()
     val di = arrayOf(0, 0, -1, 1)
     val dj = arrayOf(1, -1, 0, 0)
