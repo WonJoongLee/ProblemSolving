@@ -1,1 +1,1 @@
-[백준](https://www.acmicpc.net/user/tigger97)
+[백준 계정](https://www.acmicpc.net/user/tigger97)
