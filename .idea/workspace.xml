@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8788a973-9bcd-4897-a4d6-9b785881734b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rbYkBzh7qomJxlyzLwq6YJ7XUg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="5585" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProblemSolving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\realj\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baekjoon" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baekjoon/5585.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.5585" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8788a973-9bcd-4897-a4d6-9b785881734b" name="Default Changelist" comment="" />
+      <created>1619246396374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619246396374</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="186" y="115" key="#5585" timestamp="1619787335876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="186" y="115" key="#5585/-1080.-289.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1619787335876" />
+    <state width="1882" height="281" key="GridCell.Tab.0.bottom" timestamp="1619791313369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="281" key="GridCell.Tab.0.bottom/-1080.-289.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1619791313369" />
+    <state width="1882" height="281" key="GridCell.Tab.0.center" timestamp="1619791313369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="281" key="GridCell.Tab.0.center/-1080.-289.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1619791313369" />
+    <state width="1882" height="281" key="GridCell.Tab.0.left" timestamp="1619791313369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="281" key="GridCell.Tab.0.left/-1080.-289.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1619791313369" />
+    <state width="1882" height="281" key="GridCell.Tab.0.right" timestamp="1619791313369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1882" height="281" key="GridCell.Tab.0.right/-1080.-289.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1619791313369" />
+  </component>
+</project>
